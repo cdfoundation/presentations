@@ -7,5 +7,6 @@ Talks given at the Continuous Delivery Contributor Summit colocated event with D
  * Jenkins
  * Tekton 
  * Jenkins X
+     * https://docs.google.com/presentation/d/1Hj2tjzCMT10ZxOk_KgbJSvzNjhoY3A3QvYWIlHgsmDk/edit?usp=sharing 
  * Lightning Talks
       * Security SIG - PDF file in this folder
