@@ -8,5 +8,7 @@ Talks given at the Continuous Delivery Contributor Summit colocated event with D
  * Tekton 
  * Jenkins X
      * https://docs.google.com/presentation/d/1Hj2tjzCMT10ZxOk_KgbJSvzNjhoY3A3QvYWIlHgsmDk/edit?usp=sharing 
+ * Spinnaker
+     * [Delivery at Netflix](https://docs.google.com/presentation/d/1fxgyu_pxTRGS-Z-DXb8LgA58Wtqyw-kKSrBu1FRyHVQ/edit?usp=sharing)
  * Lightning Talks
       * Security SIG - PDF file in this folder
