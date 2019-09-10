@@ -5,7 +5,8 @@ Talks given at the Continuous Delivery Contributor Summit colocated event with D
  * Intro/CDF Overview
      * https://docs.google.com/presentation/d/1klf13SMg5Gh-wpjT506_UJmsUzGo9sLWaf9KPN2Frp8/edit?usp=sharing
  * Jenkins
- * Tekton 
+ * Tekton
+   * Dashboard and webhooks extension: https://docs.google.com/presentation/d/14MKXSnI-ec3EiKoHu5Yqy7Luzadhtfh0V9rW5-sio8I/edit?usp=sharing
  * Jenkins X
      * https://docs.google.com/presentation/d/1Hj2tjzCMT10ZxOk_KgbJSvzNjhoY3A3QvYWIlHgsmDk/edit?usp=sharing 
  * Spinnaker
