@@ -7,7 +7,8 @@ Talks given at the Continuous Delivery Contributor Summit colocated event with D
      * [CDF Keynote](https://docs.google.com/presentation/d/1G4H5I4ne8ZxYCmhw5TCBHTfNCjUoqieIRjd7WOf05Ks/edit)
  * Jenkins
      * [Jenkins Configuration as Code](https://docs.google.com/presentation/d/1po3B-gecrS28saxBudvBO8vWcLVCiACbg-YgigAMS00/edit?usp=sharing)
-     * Sysdig Secure Jenkins - PDF file in this folder      
+     * Sysdig Secure Jenkins - PDF file in this folder
+     * [Plugin Installation Manager GSoC Project](https://docs.google.com/presentation/d/1f8aPNCs-Nxq_yvAnM_epWtP5jXQXQzB6SybxNFFbR_s/edit?usp=sharing)
  * Tekton
      * [Dashboard and webhooks extension](https://docs.google.com/presentation/d/14MKXSnI-ec3EiKoHu5Yqy7Luzadhtfh0V9rW5-sio8I/edit?usp=sharing)
  * Jenkins X
