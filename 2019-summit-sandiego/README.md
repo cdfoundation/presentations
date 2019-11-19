@@ -4,7 +4,10 @@ Talks given at the Continuous Delivery Summit colocated event with KubeCon/Cloud
 
  * Keynote/Intro 
      * https://docs.google.com/presentation/d/1G_U8tfqJYli7MA2RfxkNO20-oAwOvy_H11MYFo_ckrU/edit?usp=sharing
-     
+
+ * Summit Presentations
+     * [CD Summit - 2011-18-2019 - Automating Security Compliance at Scale.pdf](https://github.com/cdfoundation/presentations/blob/master/2019-summit-sandiego/CD%20Summit%20-%2011-18-2019%20-%20Automating_Security_Compliance_at_Scale.pdf)
+
  * SIG Security
      * [CD Summit - 11-18-2019 - Software Supply Chain Overview.pdf](https://github.com/cdfoundation/presentations/blob/master/2019-summit-sandiego/CD%20Summit%20-%2011-18-2019%20-%20Software%20Supply%20Chain%20Overview.pdf)
      
