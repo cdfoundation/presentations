@@ -7,3 +7,6 @@ Talks given at the Continuous Delivery Summit colocated event with KubeCon/Cloud
      
  * SIG Security
      * [CD Summit - 11-18-2019 - Software Supply Chain Overview.pdf](https://github.com/cdfoundation/presentations/blob/master/2019-summit-sandiego/CD%20Summit%20-%2011-18-2019%20-%20Software%20Supply%20Chain%20Overview.pdf)
+     
+ * SIG MLOps
+     * [CD Summit - 11-18-2019 - MLOps, Kubeflow, and Tekton.pdf](https://github.com/cdfoundation/presentations/blob/master/2019-summit-sandiego/CD%20Summit%20-%2011-18-2019%20-%20MLOps%2C%20Kubeflow%2C%20and%20Tekton.pdf)
